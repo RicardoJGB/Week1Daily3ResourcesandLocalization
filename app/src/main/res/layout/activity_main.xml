@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/message1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Message1"
+        android:textSize="22sp"
+        android:textColor="@color/cyanish"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/message2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Message2"
+        android:textSize="22sp"
+        android:textColor="@color/sugus"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/message3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Message3"
+        android:textSize="22sp"
+        android:textColor="@color/interestingredish"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/message4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Message4"
+        android:textSize="22sp"
+        android:textColor="@color/tealmaybe"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/message5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Message5"
+        android:textSize="22sp"
+        android:textColor="@color/darkpurple"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/PersonName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textColor="@color/darkpurple"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/PersonLastName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textColor="@color/interestingredish"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/AnimalPhylum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textColor="@color/interestingredish"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/AnimalFamily"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textColor="@color/tealmaybe"
+        android:gravity="center"/>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="cyanish">#81d7e8</color>
+    <color name="tealmaybe">#15a9c6</color>
+    <color name="sugus">#a48de8</color>
+    <color name="darkpurple">#650982</color>
+    <color name="interestingredish">#9b112a</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hausaufgaben :D</string>
+    <string name="Message1">Hallo</string>
+    <string name="Message2">ich mache Hausaufgaben</string>
+    <string name="Message3">Zuhause</string>
+    <string name="Message4">Und es ist Arbeit</string>
+    <string name="Message5">So</string>
+</resources>

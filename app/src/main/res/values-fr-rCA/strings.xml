@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Devoirs :D</string>
+    <string name="Message1">Salut</string>
+    <string name="Message2">Je fais les devoirs</string>
+    <string name="Message3">À la maison</string>
+    <string name="Message4">Et c\'est du travail</string>
+    <string name="Message5">Alors</string>
+</resources>
